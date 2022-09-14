@@ -16,7 +16,7 @@
 		"vscode": {
 			// Set *default* container specific settings.json values on container create.
 			"settings": {
-				"editor.tabSize": 6
+				"editor.tabSize": 8
 			},
 			
 			// Add the IDs of extensions you want installed when the container is created.
